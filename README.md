@@ -33,5 +33,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The Iris flower dataset is provided by Kaggle.
 - The model implementation and techniques are inspired by various resources and tutorials in the field of machine learning.
 
-For more details and a step-by-step guide, refer to the [`Iris Flower Species Differentiation Project.ipynb`](Iris%Flower%Species%Differentiation%Project.ipynb) file in this repository.
+For more details and a step-by-step guide, refer to the [`Iris Flower Species Differentiation Project.ipynb`](Iris Flower%Species Differentiation Project.ipynb) file in this repository.
 
